@@ -1,7 +1,7 @@
-export default function NonHoFattoUnBranchInRealta(){
-    return(
+export default function NonHoFattoUnBranchInRealta() {
+    return (
         <>
-        <div></div>
+            <div></div>
         </>
     )
 }
